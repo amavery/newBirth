@@ -1,5 +1,5 @@
 {
-  "name": "mynbbf",
+  "name": "newBirth",
   "version": "1.0.0",
   "author": "Aaren",
   "contributors": [],
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amavery/mynbbf.git"
+    "url": "git+https://github.com/amavery/newBirth.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amavery/mynbbf/issues"
+    "url": "https://github.com/amavery/newBirth/issues"
   }
 }
