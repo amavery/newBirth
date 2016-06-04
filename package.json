@@ -1,0 +1,25 @@
+{
+  "name": "mynbbf",
+  "version": "1.0.0",
+  "author": "Aaren",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "o.8.*"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node web.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amavery/mynbbf.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amavery/mynbbf/issues"
+  }
+}
