@@ -1,5 +1,4 @@
 <?php
-
 if (isset(filter_input(INPUT_POST, 'submit'))) {
     $name = filter_input(INPUT_POST, 'name');
     $email = filter_input(INPUT_POST, 'email');

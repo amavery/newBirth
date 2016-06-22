@@ -91,20 +91,14 @@
                         <div class="col-md-6">
                             <div id="contact-form-wrapper">
                                 <div class="contact_form_holder">
-                                    <form id="contact" class="row" name="" method="post" action="send.php">
-
-
+                                    <form action="https://formspree.io/aavery@aggies.ncat.edu">
 
                                         <input type="text" class="form-control" name="name" id="name" placeholder="Your name" />
 
-                                        <div id="error_email" class="error">Please check your email</div>
-                                        <input type="text" class="form-control" name="email" id="email" placeholder="Your email" />
+                                        <input type="email" class="form-control" name="_replyto" id="email" placeholder="Your email" />
 
-                                        <div id="error_message" class="error">Please check your message</div>
                                         <textarea cols="10" rows="10" name="message" id="message" class="form-control" placeholder="Your message"></textarea>
 
-                                        <div id="mail_success" class="success">Thank you. Your message has been sent.</div>
-                                        <div id="mail_failed" class="error">Error, email not sent</div>
 
                                         <p id="btnsubmit">
                                             <input type="submit" id="send" value="Send" class="btn btn-custom" />
